@@ -1,1 +1,0 @@
-Delete old config file
